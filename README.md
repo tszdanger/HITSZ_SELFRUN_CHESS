@@ -1,0 +1,2 @@
+# HITSZ_SELFRUN_CHESS
+本文档主要是哈工大自走棋的个人文档
